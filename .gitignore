@@ -1,3 +1,7 @@
 build/
 /tags
 /bazel-*
+
+#vs project files
+**/.vs/stb
+*.user
