@@ -5,3 +5,4 @@ build/
 #vs project files
 **/.vs/stb
 *.user
+/.vs/yaml-cpp/v16
